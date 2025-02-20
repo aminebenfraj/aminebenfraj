@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on enhancing web applications.<br>👯 I’m looking to collaborate on open-source projects that make a difference.<br>🌱 I’m currently learning about data engineering.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/benfraj.aminee)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amine_benfraj_)  
